@@ -20,10 +20,14 @@ npm install
 cd client
 npm install
 
-# Logo após, execute o projeto dentro da pasta client
+# Logo após, execute comando dentro da pasta client
 ng serve --open
+
+E em seguida, execute o comando dentro da pasta server
+node app.js
 ```
 
-Feito isso, abra o seu navegador e acesse `http://localhost:4444/`
+Feito isso, seu navegador irá abrir automaticamente.
+Abras duas abas, e inicie uma conversa no chat.
 
 ---
