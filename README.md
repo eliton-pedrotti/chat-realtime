@@ -28,6 +28,6 @@ node app.js
 ```
 
 Feito isso, seu navegador irá abrir automaticamente.
-Abras duas abas, e inicie uma conversa no chat.
+Abra duas abas, e inicie uma conversa no chat.
 
 ---
