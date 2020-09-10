@@ -23,7 +23,7 @@ npm install
 # Logo após, execute comando dentro da pasta client
 ng serve --open
 
-E em seguida, execute o comando dentro da pasta server
+# E em seguida, execute o comando dentro da pasta server
 node app.js
 ```
 
