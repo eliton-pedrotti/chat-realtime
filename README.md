@@ -31,3 +31,6 @@ Feito isso, seu navegador irá abrir automaticamente.
 Abra duas abas, e inicie uma conversa no chat.
 
 ---
+<h1 align="center">
+  <img src="https://ik.imagekit.io/s92ibqtpon/chat_vzyS_FFPA.jpg" alt="chatrealtime" />
+</h1>
