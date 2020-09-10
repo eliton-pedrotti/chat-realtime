@@ -12,11 +12,16 @@ git clone https://github.com/eliton-pedrotti/chat-realtime.git
 # Entrar no diretório
 cd chat-realtime
 
-# Baixar as dependências
+# Abra a pasta server e instale as dependências
+cd server
 npm install
 
-# Executar o servidor
-npm run dev
+# Abra a pasta client e instale as dependências
+cd client
+npm install
+
+# Logo após, execute o projeto dentro da pasta client
+ng serve --open
 ```
 
 Feito isso, abra o seu navegador e acesse `http://localhost:4444/`
