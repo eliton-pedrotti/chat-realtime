@@ -1,36 +1,56 @@
-## 📖 Sobre 
 
-Chat em tempo real feito em Nodejs com Express e Socket.io, e Angular.
+### 🚐 Projeto
 
+Chat em realtime para comunicação entre usuários.
 
- ## ⌨ Como executar o projeto
+### 👨‍💻 Tecnologias  
 
-```bash
-# Clonar o repositório
-git clone https://github.com/eliton-pedrotti/chat-realtime.git
+As seguintes tecnologias foram utilizadas:
 
-# Entrar no diretório
-cd chat-realtime
+* [Nodejs](https://nodejs.org/en/)
+* [Express](https://expressjs.com/pt-br/)
+* [Socket.io](https://socket.io/)
+* [Angular](https://angular.io/)
 
-# Abra a pasta server e instale as dependências
-cd server
-npm install
-
-# Abra a pasta client e instale as dependências
-cd client
-npm install
-
-# Logo após, execute comando dentro da pasta client
-ng serve --open
-
-# E em seguida, execute o comando dentro da pasta server
-node app.js
-```
-
-Feito isso, seu navegador irá abrir automaticamente.
-Abra duas abas, e inicie uma conversa no chat.
-
----
 <h1 align="center">
   <img src="https://ik.imagekit.io/s92ibqtpon/chat_vzyS_FFPA.jpg" alt="chatrealtime" />
 </h1>
+
+
+### 💾 Instalação
+
+Clone este repositório:
+
+```bash
+git clone https://github.com/eliton-pedrotti/chat-realtime.git
+```
+
+Entre na pasta do projeto:
+
+```bash
+cd chat-realtime
+```
+
+Para instalar todas as depêndencias, entre no diretório server e depois client, executando o seguinte comando em ambos:
+
+```bash
+npm install
+```
+
+Para rodar a aplicação, abra 1 terminal dentro do diretório server e execute:
+
+```bash
+node app.js
+```
+
+Em seguida,  abra 1 terminal dentro do diretório client e execute:
+
+```bash
+ng serve --open
+```
+
+A aplicação irá abrir automaticamente em `http://localhost:3001`
+Abra duas abas, e inicie uma conversa no chat.
+
+
+Criado com ❤️ por Eliton Pedrotti.
